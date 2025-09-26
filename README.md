@@ -29,7 +29,7 @@
 
 
 ### ⚙️ Hardware & Acceleration
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia-cuda&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia-cuda&logoColor=white) ![RKNN](https://img.shields.io/badge/RKNN-%23007ACC.svg?style=for-the-badge&logo=rocketchat&logoColor=white) ![Hailo NPU](https://img.shields.io/badge/Hailo%20NPU-%231A237E.svg?style=for-the-badge&logo=hailo&logoColor=white) ![DeepX NPU](https://img.shields.io/badge/DeepX%20NPU-%232196F3.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 

@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-> *你好，我是 LJ-Hao，一名热爱人工智能、深度学习与大语言模型（LLMs）技术的开发者。*
+> *Hello, I am Jiahao Li, a developer passionate about artificial intelligence, deep learning, and large language models (LLMs) technology.*
 
 ---
 
@@ -11,40 +11,22 @@
 
 ---
 
-### 📦 Dev Tools & Environment
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+### 🤖 LLMs & NLP
+![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)  ![GPT](https://img.shields.io/badge/GPT-%236136EC.svg?style=for-the-badge&logo=OpenAI&logoColor=white)  ![BERT](https://img.shields.io/badge/BERT-%23006aff.svg?style=for-the-badge&logoColor=white)  ![vLLM](https://img.shields.io/badge/vLLM-%23007ACC.svg?style=for-the-badge&logoColor=white)  ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-%2317282D.svg?style=for-the-badge&logo=nvidia&logoColor=white)  ![LoRA](https://img.shields.io/badge/LoRA-%23F59E0B.svg?style=for-the-badge&logoColor=white)  ![RLHF](https://img.shields.io/badge/RLHF-%23EF4444.svg?style=for-the-badge&logoColor=white)
 
 ---
 
 ### 🧠 Machine Learning / Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
 ---
 
-### 🤖 LLMs & NLP
-![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
-![GPT](https://img.shields.io/badge/GPT-%236136EC.svg?style=for-the-badge&logo=OpenAI&logoColor=white)  
-![BERT](https://img.shields.io/badge/BERT-%23006aff.svg?style=for-the-badge&logoColor=white)  
-![vLLM](https://img.shields.io/badge/vLLM-%23007ACC.svg?style=for-the-badge&logoColor=white)  
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-%2317282D.svg?style=for-the-badge&logo=nvidia&logoColor=white)  
-![LoRA](https://img.shields.io/badge/LoRA-%23F59E0B.svg?style=for-the-badge&logoColor=white)  
-![RLHF](https://img.shields.io/badge/RLHF-%23EF4444.svg?style=for-the-badge&logoColor=white)
+
+### 📦 Dev Tools & Environment
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
 
-### 📈 Experiment Tracking
-![Weights & Biases](https://img.shields.io/badge/W&B-%23FFBE00.svg?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
-
----
 
 ### ⚙️ Hardware & Acceleration
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia-cuda&logoColor=white)

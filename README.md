@@ -4,14 +4,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LJ-Hao&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LJ-Hao&theme=ayu-mirage&hide_border=false)
-
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=LJ-Hao&theme=github)
-
 ## 💻 Tech Stack
 
 ### 🧑‍💻 Languages

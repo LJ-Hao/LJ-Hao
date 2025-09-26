@@ -28,10 +28,9 @@
 
 
 ### 📦 Dev Tools & Environment
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
 
 ### ⚙️ Hardware & Acceleration
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia-cuda&logoColor=white) ![RKNN](https://img.shields.io/badge/RKNN-%23007ACC.svg?style=for-the-badge&logo=rocketchat&logoColor=white) ![Hailo NPU](https://img.shields.io/badge/Hailo%20NPU-%231A237E.svg?style=for-the-badge&logo=hailo&logoColor=white) ![DeepX NPU](https://img.shields.io/badge/DeepX%20NPU-%232196F3.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
